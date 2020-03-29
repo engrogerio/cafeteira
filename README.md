@@ -10,6 +10,6 @@ A implementação segue exatamente o exemplo do vídeo, usando classes, embora p
 
 * Criar uma classe para cada estado possível para a cafeteira, todos herdando da classe ABC "Estado". Essas classes devem ter metodos concretos que apenas retornam uma instancia de uma das classes concretas.
 
-* Criar a classe Cafeteira com um estado inicial definido e para cada metodo, efetual a chamada ao metodo do estado atual.
+* Criar a classe Cafeteira com um estado inicial definido e para cada metodo, efetuar a chamada ao metodo do estado atual.
 
-Para dúvidas ou sugestões, criar um issue.
+Dúvidas ou sugestões, seja livre para criar um issue!
